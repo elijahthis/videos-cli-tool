@@ -1,0 +1,30 @@
+[
+	{
+		"Id": "CODqM_rzwtk",
+		"Title": "How to Build a Command Line (CLI) Application with Go",
+		"Description": "Today we're going to take our Go learning to the next level and see how to build a basic command line interface.",
+		"ImageURL": "https://unsplash.com/photos/LzHLQvFKFQE",
+		"URL": "https://www.youtube.com/watch?v=CODqM_rzwtk"
+	},
+	{
+		"Id": "8DvywoWv6fI",
+		"Title": "Python for Everybody - Full University Python Course",
+		"Description": "This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics.",
+		"ImageURL": "https://unsplash.com/photos/LzHLQvFKFQE",
+		"URL": "https://www.youtube.com/watch?v=8DvywoWv6fI"
+	},
+	{
+		"Id": "ZtqBQ68cfJc",
+		"Title": "The 50 Most Popular Linux \u0026 Terminal Commands - Full Course for Beginners",
+		"Description": "Learn the 50 most popular Linux commands from Colt Steele. All these commands work on Linux, macOS, WSL, and anywhere you have a UNIX environment. 🐱",
+		"ImageURL": "https://unsplash.com/photos/LzHLQvFKFQE",
+		"URL": "https://www.youtube.com/watch?v=ZtqBQ68cfJc"
+	},
+	{
+		"Id": "frqULOFKxV0",
+		"Title": "Arsenal Vs Tottenham highlights",
+		"Description": "arsenal beat Tottenham 3-1 01/10/22 Emirates stadium",
+		"ImageURL": "https://unsplash.com/photos/LzHLQvFKFQE",
+		"URL": "https://www.youtube.com/watch?v=frqULOFKxV0"
+	}
+]
